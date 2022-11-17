@@ -22,3 +22,4 @@ $ bash xhydra.sh
 * Ubuntu
 
 # Fotos
+![Screenshot](xhydra0.png)
