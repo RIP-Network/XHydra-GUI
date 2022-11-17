@@ -1,4 +1,7 @@
 # XHydra-GUI
+
+![Screenshot](xhydra.png)
+
 # Como usar 
 
 $ sudo apt-get install hydra-gtk
