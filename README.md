@@ -34,6 +34,10 @@ $ bash xhydra.sh
 
 -h  ofrece ayuda al usuario mostrando los comandos compatibles
 
+# Ejemplo
+
+hydra -l user -P passlist.txt ftp://127.0.0.1
+
 # Sistemas testeados
 
 * Parrot OS
