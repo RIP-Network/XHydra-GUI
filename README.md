@@ -34,6 +34,8 @@ $ bash xhydra.sh
 
 -h  ofrece ayuda al usuario mostrando los comandos compatibles
 
+![Screenshot](Hydra-Protocolos-compatibles.jpg)
+
 # Ejemplo
 
 hydra -l user -P passlist.txt ftp://127.0.0.1
