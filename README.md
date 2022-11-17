@@ -13,7 +13,7 @@ $ make
 
 $ make install
 
-$ bash xhydra
+$ bash xhydra.sh
 
 # Sistemas testeados
 
